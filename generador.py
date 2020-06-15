@@ -16,7 +16,6 @@ class Generador:
             while self.tempsArribada[i] < 0:
                 self.tempsArribada[i] = expon.rvs(size=1, loc=configuracio.loc_temps_entre_arribades, scale=configuracio.scale_temps_entre_arribades)
             self.tempsArribada[i] = round(self.tempsArribada[i], 2)
-        print("Llista temps arribades " + str(self.tempsArribada))
 
     def nextArrival(self):
         self.index+=1

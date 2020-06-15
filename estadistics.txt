@@ -1,0 +1,7 @@
+Capses generades per l'Agrupador1: 71
+Capses generades per l'Agrupador2: 65
+Capses generades per l'Agrupador3: 63
+
+Mitjana del temps en omplir una capsa de l'Agrupador1: 57.11
+Mitjana del temps en omplir una capsa de l'Agrupador2: 61.59
+Mitjana del temps en omplir una capsa de l'Agrupador3: 63.76

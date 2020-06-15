@@ -4,7 +4,6 @@ import configuracio
 
 cnt_tipus_aliment = 0
 llista_tipus_aliments = numpy.random.randint(1, 4, configuracio.aliments_a_processar + 1)
-print("Llista tipus aliments: " + str(llista_tipus_aliments))
 
 class Esdeveniment:
 
